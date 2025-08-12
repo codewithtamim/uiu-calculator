@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tuition Fee Calculator</string>
+    <string name="student_type">Student Type</string>
+    <string name="scholarship_percent">Scholarship Percentage</string>
+    <string name="total_amount">Total Tuition Amount</string>
+    <string name="calculate_installments">Calculate Installments</string>
+    <string name="results_title">Results</string>
+    <string name="final_amount">Final Amount: %1$s</string>
+    <string name="first_installment">1st Installment: %1$s</string>
+    <string name="second_installment">2nd Installment: %1$s</string>
+    <string name="third_installment">3rd Installment: %1$s</string>
+    <string name="invalid_amount">Please enter a valid amount</string>
+</resources>
